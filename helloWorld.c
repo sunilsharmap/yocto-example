@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-#include "HelloWorld.h"
+#include "helloWorld.h"
 
 int main(int argc, char *argv[])
 {
