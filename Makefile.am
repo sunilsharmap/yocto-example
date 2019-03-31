@@ -1,7 +1,7 @@
 AUTOMAKE_OPTIONS = foreign
 
 CFLAGS = -Wall -pedantic
-include_HEADERS = helloWorld.h
+include_HEADERS = helloexample.h
 
-bin_PROGRAMS = helloworld
-helloworld_SOURCES = helloWorld.c
+bin_PROGRAMS = helloexample
+helloworld_SOURCES = helloexample.c

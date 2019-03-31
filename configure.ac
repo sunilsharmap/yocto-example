@@ -1,9 +1,9 @@
-#                                               -*- Autoconf -*-
+# -*- Autoconf -*-
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
 AC_INIT(yocto-example, 1.0, sunilsharma.pv@gmail.com)
-AC_CONFIG_SRCDIR([helloWorld.c])
+AC_CONFIG_SRCDIR([helloexample.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(yocto-example, main)
 
